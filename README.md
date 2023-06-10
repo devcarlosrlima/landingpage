@@ -1,2 +1,3 @@
 # landingpage
-primeiro landing page feito na formação de tecnologia da escola dnc
+Link do site disponibilizado: https://firstladingpage.netlify.app
+Link da planilha de registro de informação: https://shorturl.at/eiyK3
